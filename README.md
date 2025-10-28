@@ -31,7 +31,7 @@ These guidelines apply to all types of scientific writing at our institute, like
 ### Citations
 
 - Do not "just" cite a paper from, e.g., [arXiv][] without quality control like peer review.[^1]
-- Whenever possible, try to use the bibliography entries provided by [dblp.org][] and ensure that a [DOI][] is available for the respective entry (ask your supervisor whether a procured bibliography for important references is already available). 
+- Whenever possible, try to use the bibliography entries provided by [dblp.org][] and ensure that a [DOI][] is available for the respective entry (ask your supervisor whether a procured bibliography for important references is already available).
 - When citing, make sure that references contain not just author, title, and year, but also the venue (e.g., the conference like ICSE, MSR, ASE, or a journal like TSE, TOSEM, or JSS).
 - Prefer full publications over vision, tool-demo, or poster publications.
 - This includes [presentations](#presentation-specific-guidelines). Here an on-slide citation should read, e.g. "Sihler et al. (ICSE, 2025): On the Cuteness of Penguins".
@@ -52,14 +52,17 @@ Please be aware, that these guidelines hold _additionally_ of the [General Guide
 
 - Include rough estimates of your work.\
   Of course you cannot know exactly how long something will take, but roughly calculating the time against the available time (e.g., roughly 45 days for a bachelor's thesis) helps to judge the feasibility of your planned work.[^2]
+- Ideally plan multiple iterations of your work to conduct intermediate evaluations and implement feedback from earlier iterations.
+- Plan an additional buffer for writing your thesis before the submission date (at least 2 weeks buffer)
 
 ## Thesis-Specific Guidelines
 
 Please be aware, that these guidelines hold _additionally_ of the [General Guidelines](#general-guidelines).
 
-- Include the signed declaration of authenticity (the thesis template provides a module for this)
-- Persist your final state in an easily accessible way, we encourage you to (at least at the University of Ulm) upload the compiled version of your final and submitted thesis to this repository as well.
-Please use the format `<Surname><Firstname>-<Type>.pdf` for the file name, where `<Type>` is either `BachelorThesis` or `MasterThesis` (e.g., `SihlerFlorian-MasterThesis.pdf`).
+- Include the signed declaration of authenticity (the thesis template provides a module for this)\
+  The thesis submission is only valid if a signed declaration of authenticity is included in the submitted thesis.
+- Persist your final state in an easily accessible way, we encourage you to (at least at the University of Ulm) upload the compiled version of your final and submitted thesis to this repository as well.\
+  Please use the format `<Surname><Firstname>-<Type>.pdf` for the file name, where `<Type>` is either `BachelorThesis` or `MasterThesis` (e.g., `SihlerFlorian-MasterThesis.pdf`).
 - Alongside your thesis you usually have to submit a reproducibility package. Please check out the respective guidelines.
 - Read the [University FAQ Page](https://www.uni-ulm.de/studium/pruefungsverwaltung/pruefungen-und-module-faq/) for up-to-date information on submission guidelines.
 
