@@ -13,6 +13,8 @@ If you have suggestions for improvements, or think something is outdated, please
 
 All of these guidelines are subject to discussion with your supervisor to be adapted to your specific scenario.
 
+Current list of templates provided by the institute can be found on the [SP GitHub page][sp@github] or the general [template page][fancy-templates@github]
+
 ## General Guidelines
 
 These guidelines apply to all types of scientific writing at our institute, like lecture papers, theses (bachelor and master), and the accompanying presentations.
@@ -91,5 +93,6 @@ Please be aware, that these guidelines hold _additionally_ of the [General Guide
 [uulm]: https://www.uni-ulm.de/
 [sp]: https://www.uni-ulm.de/in/sp/
 [sp@github]: https://github.com/sp-uulm/
+[fancy-templates@github]: https://github.com/Fancy-Templates
 [Ulm University AI Guidelines]: https://github.com/Fancy-Templates/latex-thesis/blob/main/ai-rules-uulm.md
 [Ulm University Rep-Package Guidelines]: https://github.com/Fancy-Templates/latex-thesis/blob/main/rep-package-guidelines.md
