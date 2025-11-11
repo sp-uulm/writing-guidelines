@@ -33,7 +33,11 @@ These guidelines apply to all types of scientific writing at our institute, like
 - Do not "just" cite a paper from, e.g., [arXiv][] without quality control like peer review.[^1]
 - Whenever possible, try to use the bibliography entries provided by [dblp.org][] and ensure that a [DOI][] is available for the respective entry (ask your supervisor whether a procured bibliography for important references is already available).
 - When citing, make sure that references contain not just author, title, and year, but also the venue (e.g., the conference like ICSE, MSR, ASE, or a journal like TSE, TOSEM, or JSS).
-- Prefer full publications over vision, tool-demo, or poster publications.
+- Prefer full publications over vision, tool-demo, or (especially) poster publications.
+- We don't want to have citations at the start of a line.\
+  In LaTeX, you can use `~` to prevent a line break between two words (a non-breaking space). For example, instead of writing `cute \cite{Sihler2025,Sihler2026}`, write `cute~\cite{Sihler2025,Sihler2026}`.
+- We try to avoid cites-as-subjects with numeric citation styles.\
+  Instead of writing "As shown by [2]", we prefer "As shown by Sihler et al. [2]". In LaTeX you can use something like `\citeauthor*{Sihler2025}~\cite{Sihler2025}`.
 - This includes [presentations](#presentation-specific-guidelines). Here an on-slide citation should read, e.g. "Sihler et al. (ICSE, 2025): On the Cuteness of Penguins".
 - Use a proper system to format citations (like [BibLaTeX](https://ctan.org/pkg/biblatex), templates should already include this).
 
