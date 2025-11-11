@@ -70,13 +70,15 @@ Please be aware, that these guidelines hold _additionally_ of the [General Guide
 ### Thesis-Specific Content Guidelines
 
 - Include a proper abstract summarizing your work.\
-  Style-wise we recommend you follow a [structured abstract](https://procomm.ieee.org/transactions-of-professional-communication/for-prospective-authors/guidelines-to-follow/preparing-structured-abstracts/) approach.
+  Style-wise we recommend you follow a [structured abstract](https://web.archive.org/web/20250807230549/https://procomm.ieee.org/transactions-of-professional-communication/for-prospective-authors/guidelines-to-follow/preparing-structured-abstracts/) approach.
 - We do not write click-bait articles.\
   Start with the most important information and the results. List the details afterward. Ideally, your work follows a "pyramid shape" in which you progressively go into more and more detail for the specific aspects of your work.
 - Already answer your research questions/list your contributions in the introduction.\
   You can also hint at them in the abstract, but your introduction should communicate to the reader what your research questions are and how you answered them (i.e., what your contributions are).
-- For bigger segments like chapters and sections, include [topic-sentences](https://academic-englishuk.com/topic-sentences/).\
+- For bigger segments like chapters and sections, include [topic-sentences](https://web.archive.org/web/20250913173407/https://academic-englishuk.com/topic-sentences/).\
   These summarize the content of the respective segment and help the reader to quickly grasp the content (e.g., when skimming through the document).
+- Know your limits, know your threats.\
+  Threats to validity are an important part of scientific work. Make sure to discuss the limitations of your work and how they might threaten the validity of your results (e.g. [Types of Validity](https://web.archive.org/web/20250620015439/https://tagvault.org/blog/types-of-validity/), also consider [Lago et al., ESEM '24](https://doi.org/10.1145/3674805.3686691)).
 
 ### Submitting your Thesis
 
