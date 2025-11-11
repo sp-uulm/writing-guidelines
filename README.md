@@ -67,6 +67,13 @@ Please be aware, that these guidelines hold _additionally_ of the [General Guide
 
 Please be aware, that these guidelines hold _additionally_ of the [General Guidelines](#general-guidelines).
 
+### Thesis-Specific Content Guidelines
+
+- Include a proper abstract summarizing your work.\
+  Style-wise we recommend you follow a [structured abstract](https://procomm.ieee.org/transactions-of-professional-communication/for-prospective-authors/guidelines-to-follow/preparing-structured-abstracts/) approach.
+
+### Submitting your Thesis
+
 - Include the signed declaration of authenticity\
   (The thesis template provides a module for this). The thesis submission is only valid if a signed declaration of authenticity is included in the submitted thesis.
 - Persist your final state in an easily accessible way.\
