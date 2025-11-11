@@ -59,9 +59,10 @@ Please be aware, that these guidelines hold _additionally_ of the [General Guide
 
 Please be aware, that these guidelines hold _additionally_ of the [General Guidelines](#general-guidelines).
 
-- Include the signed declaration of authenticity (the thesis template provides a module for this)\
-  The thesis submission is only valid if a signed declaration of authenticity is included in the submitted thesis.
-- Persist your final state in an easily accessible way, we encourage you to (at least at the University of Ulm) upload the compiled version of your final and submitted thesis to this repository as well.\
+- Include the signed declaration of authenticity\
+  (The thesis template provides a module for this). The thesis submission is only valid if a signed declaration of authenticity is included in the submitted thesis.
+- Persist your final state in an easily accessible way.\
+  We encourage you to (at least at the University of Ulm) upload the compiled version of your final and submitted thesis to this repository as well.
   Please use the format `<Surname><Firstname>-<Type>.pdf` for the file name, where `<Type>` is either `BachelorThesis` or `MasterThesis` (e.g., `SihlerFlorian-MasterThesis.pdf`).
 - Alongside your thesis you usually have to submit a reproducibility package. Please check out the respective guidelines.
 - Read the [University FAQ Page](https://www.uni-ulm.de/studium/pruefungsverwaltung/pruefungen-und-module-faq/) for up-to-date information on submission guidelines.
@@ -70,7 +71,7 @@ Please be aware, that these guidelines hold _additionally_ of the [General Guide
 
 Please be aware, that these guidelines hold _additionally_ of the [General Guidelines](#general-guidelines).
 
-- Provide citations _on_ the slides\
+- Provide citations _on_ the slides.\
   These allow to quickly search for the reference during the presentation.
   The citation should (at least) contain the title, year, first-author and venue (e.g., "Sihler et al. (ICSE, 2025): On the Cuteness of Penguins").
 
