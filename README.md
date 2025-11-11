@@ -24,7 +24,7 @@ These guidelines apply to all types of scientific writing at our institute, like
 - Stay consistent!\
   No matter whether you use British or American English, or whether you prefer the Oxford comma or not: Just stay consistent throughout your work.
   And, of course, make sure that you not suddenly break context and introduce new things/concepts, etc. &mdash; we can do better than the average LLM.
-- Abide by the template-specific formatting guidelines (check out the [SP GitHub page][sp@github] for available templates).
+- Abide by the template-specific formatting guidelines (check out the [SP GitHub page][sp@github] or the general [template page][fancy-templates@github] for available templates).
 - Follow the current guidelines on AI usage in scientific writing as provided by your supervisor or institute ([Ulm University AI Guidelines][]).
 - Use a spell or grammar checker (e.g., [Grammarly](https://www.grammarly.com/), [LanguageTool](https://languagetool.org/), or the built-in checkers of your text editor). A couple of typos are acceptable, but too many distract from the content and look unprofessional.
 - Present your ideas in easy to follow, complete sentences.\
