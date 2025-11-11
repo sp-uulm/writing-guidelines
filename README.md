@@ -71,6 +71,12 @@ Please be aware, that these guidelines hold _additionally_ of the [General Guide
 
 - Include a proper abstract summarizing your work.\
   Style-wise we recommend you follow a [structured abstract](https://procomm.ieee.org/transactions-of-professional-communication/for-prospective-authors/guidelines-to-follow/preparing-structured-abstracts/) approach.
+- We do not write click-bait articles.\
+  Start with the most important information and the results. List the details afterward. Ideally, your work follows a "pyramid shape" in which you progressively go into more and more detail for the specific aspects of your work.
+- Already answer your research questions/list your contributions in the introduction.\
+  You can also hint at them in the abstract, but your introduction should communicate to the reader what your research questions are and how you answered them (i.e., what your contributions are).
+- For bigger segments like chapters and sections, include [topic-sentences](https://academic-englishuk.com/topic-sentences/).\
+  These summarize the content of the respective segment and help the reader to quickly grasp the content (e.g., when skimming through the document).
 
 ### Submitting your Thesis
 
