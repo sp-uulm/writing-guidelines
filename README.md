@@ -23,7 +23,7 @@ These guidelines apply to all types of scientific writing at our institute, like
   No matter whether you use British or American English, or whether you prefer the Oxford comma or not: Just stay consistent throughout your work.
   And, of course, make sure that you not suddenly break context and introduce new things/concepts, etc. &mdash; we can do better than the average LLM.
 - Abide by the template-specific formatting guidelines (check out the [SP GitHub page][sp@github] for available templates).
-- Follow the current guidelines on AI usage in scientific writing as provided by your supervisor or institute.
+- Follow the current guidelines on AI usage in scientific writing as provided by your supervisor or institute ([Ulm University AI Guidelines][]).
 - Use a spell or grammar checker (e.g., [Grammarly](https://www.grammarly.com/), [LanguageTool](https://languagetool.org/), or the built-in checkers of your text editor). A couple of typos are acceptable, but too many distract from the content and look unprofessional.
 - Present your ideas in easy to follow, complete sentences.\
   Bullet-points are fine for summaries, just like this document, they make your work harder to follow and look "cheap"/incomplete. If you have difficulties formulating complete sentences, check out resources like a [Phrase Book](https://discord.com/channels/1158388733108818004/1311605836878970950).
@@ -68,7 +68,7 @@ Please be aware, that these guidelines hold _additionally_ of the [General Guide
 - Persist your final state in an easily accessible way.\
   We encourage you to (at least at the University of Ulm) upload the compiled version of your final and submitted thesis to this repository as well.
   Please use the format `<Surname><Firstname>-<Type>.pdf` for the file name, where `<Type>` is either `BachelorThesis` or `MasterThesis` (e.g., `SihlerFlorian-MasterThesis.pdf`).
-- Alongside your thesis you usually have to submit a reproducibility package. Please check out the respective guidelines.
+- Alongside your thesis you usually have to submit a reproducibility package. Please check out the respective guidelines ([Ulm University Rep-Package Guidelines][]).
 - Read the [University FAQ Page](https://www.uni-ulm.de/studium/pruefungsverwaltung/pruefungen-und-module-faq/) for up-to-date information on submission guidelines.
 
 ## Presentation-Specific Guidelines
@@ -89,3 +89,5 @@ Please be aware, that these guidelines hold _additionally_ of the [General Guide
 [uulm]: https://www.uni-ulm.de/
 [sp]: https://www.uni-ulm.de/in/sp/
 [sp@github]: https://github.com/sp-uulm/
+[Ulm University AI Guidelines]: https://github.com/Fancy-Templates/latex-thesis/blob/main/ai-rules-uulm.md
+[Ulm University Rep-Package Guidelines]: https://github.com/Fancy-Templates/latex-thesis/blob/main/rep-package-guidelines.md
