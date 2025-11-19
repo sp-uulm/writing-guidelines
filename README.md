@@ -27,7 +27,7 @@ These guidelines apply to all types of scientific writing at our institute, like
 - Abide by the template-specific formatting guidelines (check out the [SP GitHub page][sp@github] or the general [template page][fancy-templates@github] for available templates).
 - Follow the current guidelines on AI usage in scientific writing as provided by your supervisor or institute ([Ulm University AI Guidelines][]).
 - Use a spell or grammar checker (e.g., [Grammarly](https://www.grammarly.com/), [LanguageTool](https://languagetool.org/), or the built-in checkers of your text editor). A couple of typos are acceptable, but too many distract from the content and look unprofessional.
-- do not use `\\` for creating paragraphs, just use empty lines for creating a new paragraph. The template will take care of the correct visual layout.
+- Do not use `\\` for creating paragraphs, just use empty lines for creating a new paragraph. The template will take care of the correct visual layout.
 - Present your ideas in easy to follow, complete sentences.\
   Bullet-points are fine for summaries, just like this document, but they make your work harder to follow and look "cheap"/incomplete. If you have difficulties formulating complete sentences, check out resources like a [Phrase Book](https://discord.com/channels/1158388733108818004/1311605836878970950).
 - [Know your dashes!](https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use)\
