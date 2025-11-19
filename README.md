@@ -27,6 +27,7 @@ These guidelines apply to all types of scientific writing at our institute, like
 - Abide by the template-specific formatting guidelines (check out the [SP GitHub page][sp@github] or the general [template page][fancy-templates@github] for available templates).
 - Follow the current guidelines on AI usage in scientific writing as provided by your supervisor or institute ([Ulm University AI Guidelines][]).
 - Use a spell or grammar checker (e.g., [Grammarly](https://www.grammarly.com/), [LanguageTool](https://languagetool.org/), or the built-in checkers of your text editor). A couple of typos are acceptable, but too many distract from the content and look unprofessional.
+- do not use `\\` for creating paragraphs, just use empty lines for creating a new paragraph. The template will take care of the correct visual layout.
 - Present your ideas in easy to follow, complete sentences.\
   Bullet-points are fine for summaries, just like this document, but they make your work harder to follow and look "cheap"/incomplete. If you have difficulties formulating complete sentences, check out resources like a [Phrase Book](https://discord.com/channels/1158388733108818004/1311605836878970950).
 - [Know your dashes!](https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use)\
@@ -73,7 +74,8 @@ Please be aware, that these guidelines hold _additionally_ of the [General Guide
   Style-wise we recommend you follow a [structured abstract](https://web.archive.org/web/20250807230549/https://procomm.ieee.org/transactions-of-professional-communication/for-prospective-authors/guidelines-to-follow/preparing-structured-abstracts/) approach.
 - We do not write click-bait articles.\
   Start with the most important information and the results. List the details afterward. Ideally, your work follows a "pyramid shape" in which you progressively go into more and more detail for the specific aspects of your work.
-- Already answer your research questions/list your contributions in the introduction.\
+- The "pyramid" metaphor also holds for the thesis at large. The abstract and the introduction should cover/summarize all parts of the thesis at a high abstraction level. Each individual chapter then goes into the details of that chapter's topic.
+- Consequently, already answer your research questions/list your contributions in the introduction.\
   You can also hint at them in the abstract, but your introduction should communicate to the reader what your research questions are and how you answered them (i.e., what your contributions are).
 - For bigger segments like chapters and sections, include [topic-sentences](https://web.archive.org/web/20250913173407/https://academic-englishuk.com/topic-sentences/).\
   These summarize the content of the respective segment and help the reader to quickly grasp the content (e.g., when skimming through the document).
@@ -85,7 +87,7 @@ Please be aware, that these guidelines hold _additionally_ of the [General Guide
 - Include the signed declaration of authenticity\
   (The thesis template provides a module for this). The thesis submission is only valid if a signed declaration of authenticity is included in the submitted thesis.
 - Persist your final state in an easily accessible way.\
-  We encourage you to (at least at the University of Ulm) upload the compiled version of your final and submitted thesis to this repository as well.
+  We encourage you to (at least at Ulm University) upload the compiled version of your final and submitted thesis to this repository as well.
   Please use the format `<Surname><Firstname>-<Type>.pdf` for the file name, where `<Type>` is either `BachelorThesis` or `MasterThesis` (e.g., `SihlerFlorian-MasterThesis.pdf`).
 - Alongside your thesis you usually have to submit a reproducibility package. Please check out the respective guidelines ([Ulm University Rep-Package Guidelines][]).
 - Read the [University FAQ Page](https://www.uni-ulm.de/studium/pruefungsverwaltung/pruefungen-und-module-faq/) for up-to-date information on submission guidelines.
