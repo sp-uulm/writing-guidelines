@@ -87,7 +87,7 @@ Please be aware, that these guidelines hold _additionally_ of the [General Guide
 - Include the signed declaration of authenticity\
   (The thesis template provides a module for this). The thesis submission is only valid if a signed declaration of authenticity is included in the submitted thesis.
 - Persist your final state in an easily accessible way.\
-  We encourage you to (at least at Ulm University) upload the compiled version of your final and submitted thesis to this repository as well.
+  We encourage you to (at least at Ulm University) upload the compiled version of your final and submitted thesis to your thesis repository as well.
   Please use the format `<Surname><Firstname>-<Type>.pdf` for the file name, where `<Type>` is either `BachelorThesis` or `MasterThesis` (e.g., `SihlerFlorian-MasterThesis.pdf`).
 - Alongside your thesis you usually have to submit a reproducibility package. Please check out the respective guidelines ([Ulm University Rep-Package Guidelines][]).
 - Read the [University FAQ Page](https://www.uni-ulm.de/studium/pruefungsverwaltung/pruefungen-und-module-faq/) for up-to-date information on submission guidelines.
