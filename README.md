@@ -29,7 +29,7 @@ These guidelines apply to all types of scientific writing at our institute, like
 - Use a spell or grammar checker (e.g., [Grammarly](https://www.grammarly.com/), [LanguageTool](https://languagetool.org/), or the built-in checkers of your text editor). A couple of typos are acceptable, but too many distract from the content and look unprofessional.
 - Do not use `\\` for creating paragraphs, just use empty lines for creating a new paragraph. The template will take care of the correct visual layout.
 - Present your ideas in easy to follow, complete sentences.\
-  Bullet-points are fine for summaries, just like this document, but they make your work harder to follow and look "cheap"/incomplete. If you have difficulties formulating complete sentences, check out resources like a [Phrase Book](https://discord.com/channels/1158388733108818004/1311605836878970950).
+  Bullet-points are fine for summaries, just like this document, but they make your work harder to follow and look "cheap"/incomplete. If you have difficulties formulating complete sentences, check out resources like a [Phrase Book](https://phrasebankresearch.net/wp-content/uploads/2019/10/Academic-Phrasebank-Sample-PDF-2018.pdf).
 - [Know your dashes!](https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use)\
   In LaTeX, we use `-` (-) for hyphens, `--` (&ndash;) for en-dashes (like numeric ranges `pages 12--23`), and `---` for em-dashes &mdash; like this.
 
