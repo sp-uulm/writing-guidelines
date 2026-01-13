@@ -26,9 +26,12 @@ These guidelines apply to all types of scientific writing at our institute, like
   And, of course, make sure that you not suddenly break context and introduce new things/concepts, etc. &mdash; we can do better than the average LLM.
 - Abide by the template-specific formatting guidelines (check out the [SP GitHub page][sp@github] or the general [template page][fancy-templates@github] for available templates).
 - Follow the current guidelines on AI usage in scientific writing as provided by your supervisor or institute ([Ulm University AI Guidelines][]).
-- Tense-wise we follow this convention: present tense is used for everything that relates to your work. For example, instead of "Section 7 will introduce..." or "we will show more of this in..." we write "Section 7 introduces..." and "we show more of this in...". Past tense may be used for existing works and processes that happened before your thesis while future tense should be reserved for future work  (i.e., things that happen after your thesis).
+- Tense-wise we follow this convention: present tense is used for everything that relates to your work. 
+  For example, instead of "Section 7 will introduce..." or "we will show more of this in..." we write "Section 7 introduces..." and "we show more of this in...". Past tense may be used for existing works and processes that happened before your thesis while future tense should be reserved for future work  (i.e., things that happen after your thesis).
 - Use a spell or grammar checker (e.g., [Grammarly](https://www.grammarly.com/), [LanguageTool](https://languagetool.org/), or the built-in checkers of your text editor). A couple of typos are acceptable, but too many distract from the content and look unprofessional.
 - Do not use `\\` for creating paragraphs, just use empty lines for creating a new paragraph. The template will take care of the correct visual layout.
+- Whenever you come up with a descriptive and fitting section title,
+  try to avoid leading "The"/"A"/"On" etc. (we may use these for example headings). Generally, "Characteristics of the Penguin Species" reads much better than "The Characteristics of the Penguin Species" (especially when most of the other sections would also start with "The")
 - Present your ideas in easy to follow, complete sentences.\
   Bullet-points are fine for summaries, just like this document, but they make your work harder to follow and look "cheap"/incomplete. If you have difficulties formulating complete sentences, check out resources like a [Phrase Book](https://phrasebankresearch.net/wp-content/uploads/2019/10/Academic-Phrasebank-Sample-PDF-2018.pdf).
 - [Know your dashes!](https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use)\
