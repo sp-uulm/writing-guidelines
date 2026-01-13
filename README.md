@@ -26,6 +26,7 @@ These guidelines apply to all types of scientific writing at our institute, like
   And, of course, make sure that you not suddenly break context and introduce new things/concepts, etc. &mdash; we can do better than the average LLM.
 - Abide by the template-specific formatting guidelines (check out the [SP GitHub page][sp@github] or the general [template page][fancy-templates@github] for available templates).
 - Follow the current guidelines on AI usage in scientific writing as provided by your supervisor or institute ([Ulm University AI Guidelines][]).
+- Tense-wise we follow this convention: present tense is used for everything that relates to your work. For example, instead of "Section 7 will introduce..." or "we will show more of this in..." we write "Section 7 introduces..." and "we show more of this in...". Past tense may be used for existing works and processes that happened before your thesis while future tense should be reserved for future work  (i.e., things that happen after your thesis).
 - Use a spell or grammar checker (e.g., [Grammarly](https://www.grammarly.com/), [LanguageTool](https://languagetool.org/), or the built-in checkers of your text editor). A couple of typos are acceptable, but too many distract from the content and look unprofessional.
 - Do not use `\\` for creating paragraphs, just use empty lines for creating a new paragraph. The template will take care of the correct visual layout.
 - Present your ideas in easy to follow, complete sentences.\
