@@ -63,6 +63,8 @@ I mean, this sounds obvious, but still, there are countless existing best practi
 Please be aware, that these guidelines hold _additionally_ of the [General Guidelines](#general-guidelines).\
 Also consider the [Content and Structure](#content-and-structure) in the Thesis-Specific Guidelines, as they also apply here.
 
+- Plan space for each section before you start writing.\
+  Before you start writing, you should plan how you divide the available space for your paper among the sections of your paper.
 - Introduce your research questions directly in the introduction.\
   Although several guidelines recommend to describe the research questions in the methodology, we prefer to directly have them in the introduction to guide the paper.
 - Use consistent words and terminology to describe your work.\
@@ -73,6 +75,8 @@ Also consider the [Content and Structure](#content-and-structure) in the Thesis-
   One way of structuring the criteria is to describe all topic-related criteria as inclusion criteria and general criteria (e.g., peer-reviewed, full paper, language, time range) as exclusion criteria.
 - Define how the inclusion and exclusion criteria are applied.\
   Do all inclusion criteria have to be satisfied or is one inclusion criterion sufficient? What happens if both inclusion and exclusion criteria are satisfied?
+- Don't restrict your paper to your research questions.\
+  Don't just consider the aspects you defined in the research questions at the beginning, but also include other findings from the papers you come across during your literature research.
 - Use two different references lists: one for the general citations in your paper (e.g., for the introduction, background, related work, methodology) and one for the resulting papers of the SLR (take a look at the [multibib](https://ctan.org/pkg/multibib) package in LaTeX)
 
 ## Proposal-Specific Guidelines
