@@ -7,7 +7,7 @@ If you have suggestions for improvements, or think something is outdated, please
 
 <p align="center">
 
-   [[General](#general-guidelines)] &emsp;•&emsp; [[Proposal](#proposal-specific-guidelines)] [[Thesis](#thesis-specific-guidelines)] [[Presentation](#presentation-specific-guidelines)]
+   [[General](#general-guidelines)] &emsp;•&emsp; [[SLR](#slr-specific-guidelines)] [[Proposal](#proposal-specific-guidelines)] [[Thesis](#thesis-specific-guidelines)] [[Presentation](#presentation-specific-guidelines)]
 
 </p>
 
@@ -26,8 +26,8 @@ These guidelines apply to all types of scientific writing at our institute, like
   And, of course, make sure that you not suddenly break context and introduce new things/concepts, etc. &mdash; we can do better than the average LLM.
 - Abide by the template-specific formatting guidelines (check out the [SP GitHub page][sp@github] or the general [template page][fancy-templates@github] for available templates).
 - Follow the current guidelines on AI usage in scientific writing as provided by your supervisor or institute ([Ulm University AI Guidelines][]).
-- Tense-wise we follow this convention: present tense is used for everything that relates to your work. 
-  For example, instead of "Section 7 will introduce..." or "we will show more of this in..." we write "Section 7 introduces..." and "we show more of this in...". Past tense may be used for existing works and processes that happened before your thesis while future tense should be reserved for future work  (i.e., things that happen after your thesis).
+- Tense-wise we follow this convention: present tense is used for everything that relates to your work.\
+For example, instead of "Section 7 will introduce..." or "we will show more of this in..." we write "Section 7 introduces..." and "we show more of this in...". Past tense may be used for existing works and processes that happened before your work while future tense should be reserved for future work (i.e., things that happen after your work).
 - Use a spell or grammar checker (e.g., [Grammarly](https://www.grammarly.com/), [LanguageTool](https://languagetool.org/), or the built-in checkers of your text editor). A couple of typos are acceptable, but too many distract from the content and look unprofessional.
 - Do not use `\\` for creating paragraphs, just use empty lines for creating a new paragraph. The template will take care of the correct visual layout.
 - Whenever you come up with a descriptive and fitting section title,
@@ -48,7 +48,6 @@ These guidelines apply to all types of scientific writing at our institute, like
 - We try to avoid cites-as-subjects with numeric citation styles.\
   Instead of writing "As shown by [2]", we prefer "As shown by Sihler et al. [2]". In LaTeX you can use something like `\citeauthor*{Sihler2025}~\cite{Sihler2025}`.
 - This includes [presentations](#presentation-specific-guidelines). Here an on-slide citation should read, e.g. "Sihler et al. (ICSE, 2025): On the Cuteness of Penguins".
-- Use a proper system to format citations (like [BibLaTeX](https://ctan.org/pkg/biblatex), templates should already include this).
 
 ### Follow Best-Practices
 
@@ -59,6 +58,23 @@ I mean, this sounds obvious, but still, there are countless existing best practi
 - Picking the best/correct visualization for your data:\
   <https://www.data-to-viz.com/>
 
+## SLR-Specific Guidelines
+
+Please be aware, that these guidelines hold _additionally_ of the [General Guidelines](#general-guidelines).\
+Also consider the [Content and Structure](#content-and-structure) in the Thesis-Specific Guidelines, as they also apply here.
+
+- Introduce your research questions directly in the introduction.\
+  Although several guidelines recommend to describe the research questions in the methodology, we prefer to directly have them in the introduction to guide the paper.
+- Use consistent words and terminology to describe your work.\
+  The terminology in your introduction should match the terminology in the research questions, the database search strings, and the results.
+- Describe your methodology using a graphic.\
+  In general, the steps of the methodology are much easier to understand with a graphic or diagram. Ideally, the graphic should also include the resulting number of papers for each step of the methodology.
+- Inclusion and exclusion criteria should not contain duplicate entries (i.e., just negated criteria).\
+  One way of structuring the criteria is to describe all topic-related criteria as inclusion criteria and general criteria (e.g., peer-reviewed, full paper, language, time range) as exclusion criteria.
+- Define how the inclusion and exclusion criteria are applied.\
+  Do all inclusion criteria have to be satisfied or is one inclusion criterion sufficient? What happens if both inclusion and exclusion criteria are satisfied?
+- Use two different references lists: one for the general citations in your paper (e.g., for the introduction, background, related work, methodology) and one for the resulting papers of the SLR (take a look at the [multibib](https://ctan.org/pkg/multibib) package in LaTeX)
+
 ## Proposal-Specific Guidelines
 
 Please be aware, that these guidelines hold _additionally_ of the [General Guidelines](#general-guidelines).
@@ -66,14 +82,15 @@ Please be aware, that these guidelines hold _additionally_ of the [General Guide
 - Include rough estimates of your work.\
   Of course you cannot know exactly how long something will take, but roughly calculating the time against the available time (e.g., roughly 45 days for a bachelor's thesis) helps to judge the feasibility of your planned work.[^2]
 - Ideally plan multiple iterations of your work to conduct intermediate evaluations and implement feedback from earlier iterations.
-- Plan an additional buffer for writing your thesis before the submission date (at least 2 weeks buffer)
+- Plan an additional buffer for writing your thesis before the submission date (at least 2 weeks buffer).
 
 ## Thesis-Specific Guidelines
 
 Please be aware, that these guidelines hold _additionally_ of the [General Guidelines](#general-guidelines).
 
-### Thesis-Specific Content Guidelines
+### Content and Structure
 
+- Support all your statements that are not obvious or that you prove by yourself with corresponding citations.
 - Include a proper abstract summarizing your work.\
   Style-wise we recommend you follow a [structured abstract](https://web.archive.org/web/20250807230549/https://procomm.ieee.org/transactions-of-professional-communication/for-prospective-authors/guidelines-to-follow/preparing-structured-abstracts/) approach.
 - We do not write click-bait articles.\
@@ -83,6 +100,8 @@ Please be aware, that these guidelines hold _additionally_ of the [General Guide
   You can also hint at them in the abstract, but your introduction should communicate to the reader what your research questions are and how you answered them (i.e., what your contributions are).
 - For bigger segments like chapters and sections, include [topic-sentences](https://web.archive.org/web/20250913173407/https://academic-englishuk.com/topic-sentences/).\
   These summarize the content of the respective segment and help the reader to quickly grasp the content (e.g., when skimming through the document).
+- Figures and tables should occur before they are referenced in the text.\
+  Especially, figures and tables should not be referenced to the next page (i.e., not on a page after the page of the figure/table reference).
 - Know your limits, know your threats.\
   Threats to validity are an important part of scientific work. Make sure to discuss the limitations of your work and how they might threaten the validity of your results (e.g. [Types of Validity](https://web.archive.org/web/20250620015439/https://tagvault.org/blog/types-of-validity/), also consider [Lago et al., ESEM '24](https://doi.org/10.1145/3674805.3686691)).
 
