@@ -17,7 +17,7 @@ Current list of templates provided by the institute can be found on the [SP GitH
 
 ## General Guidelines
 
-These guidelines apply to all types of scientific writing at our institute, like lecture papers, theses (bachelor and master), and the accompanying presentations.
+These guidelines apply to all types of scientific writing at our institute like lecture papers and theses (bachelor and master).
 
 ### Formatting and Language
 
@@ -36,6 +36,29 @@ For example, instead of "Section 7 will introduce..." or "we will show more of t
   Bullet-points are fine for summaries, just like this document, but they make your work harder to follow and look "cheap"/incomplete. If you have difficulties formulating complete sentences, check out resources like a [Phrase Book](https://phrasebankresearch.net/wp-content/uploads/2019/10/Academic-Phrasebank-Sample-PDF-2018.pdf).
 - [Know your dashes!](https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use)\
   In LaTeX, we use `-` (-) for hyphens, `--` (&ndash;) for en-dashes (like numeric ranges `pages 12--23`), and `---` for em-dashes &mdash; like this.
+
+### Content and Structure
+
+- Support all your statements that are not obvious or that you prove by yourself with corresponding citations.
+- Include a proper abstract summarizing your work.\
+  Style-wise we recommend you follow a [structured abstract](https://web.archive.org/web/20250807230549/https://procomm.ieee.org/transactions-of-professional-communication/for-prospective-authors/guidelines-to-follow/preparing-structured-abstracts/) approach.
+- We do not write click-bait articles.\
+  Start with the most important information and the results. List the details afterward. Ideally, your work follows a "pyramid shape" in which you progressively go into more and more detail for the specific aspects of your work.
+- The "pyramid" metaphor also holds for the thesis at large. The abstract and the introduction should cover/summarize all parts of the thesis at a high abstraction level. Each individual chapter then goes into the details of that chapter's topic.
+- Consequently, already answer your research questions/list your contributions in the introduction.\
+  You can also hint at them in the abstract, but your introduction should communicate to the reader what your research questions are and how you answered them (i.e., what your contributions are).
+- Plan space for each section before you start writing.\
+  Before you start writing, you should plan how you divide the available space for your paper among the sections of your paper.
+- Introduce your research questions directly in the introduction.\
+  Although several guidelines recommend to describe the research questions in the methodology, we prefer to directly have them in the introduction to guide the paper.
+- Use consistent words and terminology to describe your work.\
+  The terminology in your introduction should match the terminology in the research questions, the methodology, and the results.
+- For bigger segments like chapters and sections, include [topic-sentences](https://web.archive.org/web/20250913173407/https://academic-englishuk.com/topic-sentences/).\
+  These summarize the content of the respective segment and help the reader to quickly grasp the content (e.g., when skimming through the document).
+- Figures and tables should occur before they are referenced in the text.\
+  Especially, figures and tables should not be referenced to the next page (i.e., not on a page after the page of the figure/table reference).
+- Know your limits, know your threats.\
+  Threats to validity are an important part of scientific work. Make sure to discuss the limitations of your work and how they might threaten the validity of your results (e.g. [Types of Validity](https://web.archive.org/web/20250620015439/https://tagvault.org/blog/types-of-validity/), also consider [Lago et al., ESEM '24](https://doi.org/10.1145/3674805.3686691)).
 
 ### Citations
 
@@ -61,14 +84,7 @@ I mean, this sounds obvious, but still, there are countless existing best practi
 ## SLR-Specific Guidelines
 
 Please be aware, that these guidelines hold _additionally_ of the [General Guidelines](#general-guidelines).\
-Also consider the [Content and Structure](#content-and-structure) in the Thesis-Specific Guidelines, as they also apply here.
 
-- Plan space for each section before you start writing.\
-  Before you start writing, you should plan how you divide the available space for your paper among the sections of your paper.
-- Introduce your research questions directly in the introduction.\
-  Although several guidelines recommend to describe the research questions in the methodology, we prefer to directly have them in the introduction to guide the paper.
-- Use consistent words and terminology to describe your work.\
-  The terminology in your introduction should match the terminology in the research questions, the database search strings, and the results.
 - Describe your methodology using a graphic.\
   In general, the steps of the methodology are much easier to understand with a graphic or diagram. Ideally, the graphic should also include the resulting number of papers for each step of the methodology.
 - Inclusion and exclusion criteria should not contain duplicate entries (i.e., just negated criteria).\
@@ -84,7 +100,7 @@ Also consider the [Content and Structure](#content-and-structure) in the Thesis-
 Please be aware, that these guidelines hold _additionally_ of the [General Guidelines](#general-guidelines).
 
 - Include rough estimates of your work.\
-  Of course you cannot know exactly how long something will take, but roughly calculating the time against the available time (e.g., roughly 45 days for a bachelor's thesis) helps to judge the feasibility of your planned work.[^2]
+  Of course, you cannot know exactly how long something will take, but roughly calculating the time against the available time (e.g., roughly 45 days for a bachelor's thesis) helps to judge the feasibility of your planned work.[^2]
 - Ideally plan multiple iterations of your work to conduct intermediate evaluations and implement feedback from earlier iterations.
 - Plan an additional buffer for writing your thesis before the submission date (at least 2 weeks buffer).
 
@@ -92,31 +108,12 @@ Please be aware, that these guidelines hold _additionally_ of the [General Guide
 
 Please be aware, that these guidelines hold _additionally_ of the [General Guidelines](#general-guidelines).
 
-### Content and Structure
-
-- Support all your statements that are not obvious or that you prove by yourself with corresponding citations.
-- Include a proper abstract summarizing your work.\
-  Style-wise we recommend you follow a [structured abstract](https://web.archive.org/web/20250807230549/https://procomm.ieee.org/transactions-of-professional-communication/for-prospective-authors/guidelines-to-follow/preparing-structured-abstracts/) approach.
-- We do not write click-bait articles.\
-  Start with the most important information and the results. List the details afterward. Ideally, your work follows a "pyramid shape" in which you progressively go into more and more detail for the specific aspects of your work.
-- The "pyramid" metaphor also holds for the thesis at large. The abstract and the introduction should cover/summarize all parts of the thesis at a high abstraction level. Each individual chapter then goes into the details of that chapter's topic.
-- Consequently, already answer your research questions/list your contributions in the introduction.\
-  You can also hint at them in the abstract, but your introduction should communicate to the reader what your research questions are and how you answered them (i.e., what your contributions are).
-- For bigger segments like chapters and sections, include [topic-sentences](https://web.archive.org/web/20250913173407/https://academic-englishuk.com/topic-sentences/).\
-  These summarize the content of the respective segment and help the reader to quickly grasp the content (e.g., when skimming through the document).
-- Figures and tables should occur before they are referenced in the text.\
-  Especially, figures and tables should not be referenced to the next page (i.e., not on a page after the page of the figure/table reference).
-- Know your limits, know your threats.\
-  Threats to validity are an important part of scientific work. Make sure to discuss the limitations of your work and how they might threaten the validity of your results (e.g. [Types of Validity](https://web.archive.org/web/20250620015439/https://tagvault.org/blog/types-of-validity/), also consider [Lago et al., ESEM '24](https://doi.org/10.1145/3674805.3686691)).
-
-### Submitting your Thesis
-
-- Include the signed declaration of authenticity\
-  (The thesis template provides a module for this). The thesis submission is only valid if a signed declaration of authenticity is included in the submitted thesis.
-- Persist your final state in an easily accessible way.\
+- Include the signed declaration of authenticity.\
+  The thesis submission is only valid if a signed declaration of authenticity is included in the submitted thesis (the thesis template provides a module for this).
+- Alongside your thesis you usually have to submit a reproducibility package. Please check out the respective guidelines ([Ulm University Rep-Package Guidelines][]).
+- Persist your final thesis in an easily accessible way.\
   We encourage you to (at least at Ulm University) upload the compiled version of your final and submitted thesis to your thesis repository as well.
   Please use the format `<Surname><Firstname>-<Type>.pdf` for the file name, where `<Type>` is either `BachelorThesis` or `MasterThesis` (e.g., `SihlerFlorian-MasterThesis.pdf`).
-- Alongside your thesis you usually have to submit a reproducibility package. Please check out the respective guidelines ([Ulm University Rep-Package Guidelines][]).
 - Read the [University FAQ Page](https://www.uni-ulm.de/studium/pruefungsverwaltung/pruefungen-und-module-faq/) for up-to-date information on submission guidelines.
 
 ## Presentation-Specific Guidelines
