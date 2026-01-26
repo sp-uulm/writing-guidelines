@@ -39,7 +39,8 @@ For example, instead of "Section 7 will introduce..." or "we will show more of t
 
 ### Content and Structure
 
-- Support all your statements that are not obvious or that you prove by yourself with corresponding citations.
+- Support all your statements that are not obvious or that you prove by yourself with corresponding citations.\
+  If there is no citation for a statement, you should at least provide an argument or intuition for the correctness of the statement.
 - Include a proper abstract summarizing your work.\
   We recommend you follow a [structured abstract](https://web.archive.org/web/20250807230549/https://procomm.ieee.org/transactions-of-professional-communication/for-prospective-authors/guidelines-to-follow/preparing-structured-abstracts/) approach.
 - We do not write click-bait articles.\
