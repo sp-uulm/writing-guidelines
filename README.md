@@ -17,7 +17,7 @@ Current list of templates provided by the institute can be found on the [SP GitH
 
 ## General Guidelines
 
-These guidelines apply to all types of scientific writing at our institute like lecture papers and theses (bachelor and master).
+These guidelines apply to all types of scientific writing at our institute like lecture papers and theses (bachelor and master), and most of these guidelines also apply to the accompanying presentations.
 
 ### Formatting and Language
 
@@ -41,7 +41,7 @@ For example, instead of "Section 7 will introduce..." or "we will show more of t
 
 - Support all your statements that are not obvious or that you prove by yourself with corresponding citations.
 - Include a proper abstract summarizing your work.\
-  Style-wise we recommend you follow a [structured abstract](https://web.archive.org/web/20250807230549/https://procomm.ieee.org/transactions-of-professional-communication/for-prospective-authors/guidelines-to-follow/preparing-structured-abstracts/) approach.
+  We recommend you follow a [structured abstract](https://web.archive.org/web/20250807230549/https://procomm.ieee.org/transactions-of-professional-communication/for-prospective-authors/guidelines-to-follow/preparing-structured-abstracts/) approach.
 - We do not write click-bait articles.\
   Start with the most important information and the results. List the details afterward. Ideally, your work follows a "pyramid shape" in which you progressively go into more and more detail for the specific aspects of your work.
 - The "pyramid" metaphor also holds for the thesis at large. The abstract and the introduction should cover/summarize all parts of the thesis at a high abstraction level. Each individual chapter then goes into the details of that chapter's topic.
@@ -50,15 +50,17 @@ For example, instead of "Section 7 will introduce..." or "we will show more of t
 - Plan space for each section before you start writing.\
   Before you start writing, you should plan how you divide the available space for your paper among the sections of your paper.
 - Introduce your research questions directly in the introduction.\
-  Although several guidelines recommend to describe the research questions in the methodology, we prefer to directly have them in the introduction to guide the paper.
+  Although some guidelines recommend describing the research questions in the methodology, we prefer to directly have them in the introduction to guide the paper, alongside a short answer to the research questions.
 - Use consistent words and terminology to describe your work.\
-  The terminology in your introduction should match the terminology in the research questions, the methodology, and the results.
+  The terminology in your introduction should match the terminology in the research questions, the methodology, and the results. You do not have to avoid duplication &mdash; if you call something `result` do not use `outcome` to refer to the same concept later.
 - For bigger segments like chapters and sections, include [topic-sentences](https://web.archive.org/web/20250913173407/https://academic-englishuk.com/topic-sentences/).\
   These summarize the content of the respective segment and help the reader to quickly grasp the content (e.g., when skimming through the document).
 - Figures and tables should occur before they are referenced in the text.\
   Especially, figures and tables should not be referenced to the next page (i.e., not on a page after the page of the figure/table reference).
-- Know your limits, know your threats.\
-  Threats to validity are an important part of scientific work. Make sure to discuss the limitations of your work and how they might threaten the validity of your results (e.g. [Types of Validity](https://web.archive.org/web/20250620015439/https://tagvault.org/blog/types-of-validity/), also consider [Lago et al., ESEM '24](https://doi.org/10.1145/3674805.3686691)).
+- Know your limits, know your threats. Packages like [placeins](https://ctan.org/pkg/placeins) and [float](https://www.ctan.org/pkg/float) can help you to ensure this automagically, even though we suggest you defer fine-tuning adjustment *after* you have completed the main body of text.\
+  Threats to validity are an important part of scientific work. Make sure to discuss the limitations of your work and how they might threaten the validity of your results (e.g., [Types of Validity](https://web.archive.org/web/20250620015439/https://tagvault.org/blog/types-of-validity/), also consider [Lago et al., ESEM '24](https://doi.org/10.1145/3674805.3686691)).
+- Focus your limitations.\
+  When describing your limitations, prioritize your major results (proportionally). If you claim "I am the first to do this correctly", maybe do not focus your limitations on the time performance of your approach!
 
 ### Citations
 
@@ -118,7 +120,7 @@ Please be aware, that these guidelines hold _additionally_ of the [General Guide
 
 ## Presentation-Specific Guidelines
 
-Please be aware, that these guidelines hold _additionally_ of the [General Guidelines](#general-guidelines).
+Please be aware, that these guidelines hold _additionally_ of most of the [General Guidelines](#general-guidelines) like the [Formatting and Language](#formatting-and-language) and [Citations](#citations) guidelines.
 
 - Provide citations _on_ the slides.\
   These allow to quickly search for the reference during the presentation.
